@@ -1,1 +1,2 @@
-Hello! My name is n1l and you can find out more about me and find me elsewhere on the web here https://n1l.neocities.org/
+<a href="https://n1l.neocities.org/">
+  <img align="left" alt="n1l site button" width="88px" src="https://n1l.neocities.org/n1l-button.gif" />
