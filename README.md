@@ -1,3 +1,2 @@
-<a href="https://magentahardcore.com/">
-  <img align="left" alt="magenta hardcore" width="15px" src="https://magentahardcore.com/imgsAssets/logo.svg"/></a>
-Where demonic currents prowl. Where fictions make themselves real.
+<a href="https://magentahardcore.com"><img id="magenta hardcore banner" src="https://magentahardcore.com/imgsAssets/banners/magentahardcorebanner.png"></a>
+🄯There is no copyright but the right to copy.
